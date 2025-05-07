@@ -56,7 +56,7 @@ FaceNet 또는 YOLO-CLS 모델을 활용한 **인물 분류(Classification)** �
 | IDE         | Google Colab, VS Code |
 
 ---
-
+<!--
 ## ▶️ 실행 방법
 
 ```bash
@@ -65,3 +65,4 @@ pip install opencv-python numpy
 
 # 웹캠 기반 얼굴 인식 실행
 python run_face_recognition.py
+-->
