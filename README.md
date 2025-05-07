@@ -25,10 +25,6 @@ FaceNet 또는 YOLO-CLS 모델을 활용한 **인물 분류(Classification)** �
 
 [Webcam] → [YOLO 얼굴 탐지] → [분류기 (FaceNet 또는 YOLO-CLS)] → [시각화/결과 출력]
 
-yaml
-복사
-편집
-
 ---
 
 ## 🔍 사용 예시
