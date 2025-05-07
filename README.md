@@ -52,7 +52,7 @@ FaceNet 또는 YOLO-CLS 모델을 활용한 **인물 분류(Classification)** �
 | Language    | Python |
 | Datasets    | Kaggle, Roboflow, Custom Captures |
 | Framework   | OpenCV, NumPy |
-| 모델        | YOLOv5, YOLO-CLS, FaceNet |
+| 모델        | YOLO, YOLO-CLS, FaceNet |
 | IDE         | Google Colab, VS Code |
 
 ---
